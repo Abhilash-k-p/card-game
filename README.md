@@ -1,21 +1,3 @@
-# ACTO Take Home Assignment
-
-## Instructions
-
-The goal of this exercise is to write a card game following a [Product Requirement Document (PRD)](#product-requirement-document).
-
-The game was already implemented but you will need to review and refactor using best practices to make sure everything is working according to the [PRD](#product-requirement-document). You are expected to debug, fix, refactor and test the existing application. Feel free to do any modifications you deem necessary.
-
-If you encounter any problems, we would encourage you to do some debugging first, before reaching out for help.
-
-We already have created the frontend skeleton code, so you can use the Vue component called `Game` to build the form to input the value of the cards and play.
-
-Also, you already have the `register` and `login` components configured just to use it.
-
-First, register a fake user, then do the login using your new user to see the game page.
-
-Now it's with you, do your best and good luck!
-
 ## The APP
 
 - Frontend: <http://localhost:80>
